@@ -1,2 +1,2 @@
 # InstantView
-A DLNA Media Server
+A DLNA Media Server for Google TV
